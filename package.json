@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-product-page",
   "version": "0.1.0",
-  "homepage": "https://abimbola7.github.io/react-gh-pages",
+  "homepage": "https://abimbola7.github.io/ecommerce-product-page",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",

@@ -105,7 +105,7 @@ const MainHeader = () => {
                             {navItems.map((title)=>(
                                 <li
                                 key={title}
-                                className={`text-base text-blacks text-opacity-75 cursor-pointer h-full flex items-center relative hover:text-opacity-100 ${navActive === title ? "before:bg-orange text-opacity-100 before:absolute before:w-full before:h-1 before:bottom-0" : ""}`}
+                                className={`text-base text-blacks cursor-pointer h-full flex items-center relative hover:text-opacity-100 ${navActive === title ? "before:bg-orange text-black text-opacity-100 before:absolute before:w-full before:h-1 before:bottom-0" : "text-opacity-75"}`}
                                 onClick={()=>setNavActive(title)}
                                 >{title}</li>
                             ))}
