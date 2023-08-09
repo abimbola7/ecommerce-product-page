@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.cd4575a2.css",
+    "main.js": "/react-gh-pages/static/js/main.24bc3771.js",
+    "static/js/787.e98044ab.chunk.js": "/react-gh-pages/static/js/787.e98044ab.chunk.js",
+    "static/media/image-product-2.jpg": "/react-gh-pages/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/react-gh-pages/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/react-gh-pages/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/react-gh-pages/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/icon-cart.svg": "/react-gh-pages/static/media/icon-cart.3ada17aae81e73dd96790a88c93e8980.svg",
+    "main.cd4575a2.css.map": "/react-gh-pages/static/css/main.cd4575a2.css.map",
+    "main.24bc3771.js.map": "/react-gh-pages/static/js/main.24bc3771.js.map",
+    "787.e98044ab.chunk.js.map": "/react-gh-pages/static/js/787.e98044ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4575a2.css",
+    "static/js/main.24bc3771.js"
+  ]
+}
