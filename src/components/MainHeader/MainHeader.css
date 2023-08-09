@@ -1,0 +1,12 @@
+.sidebar{
+    transition: .5s ease-in-out all;
+}
+
+.sidebar.active{
+    transform: translateX(13rem);
+}
+
+
+.header{
+    max-width: 96%;
+}
