@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://abimbola7.github.io/ecommerce-product-page/)
+- Live Site URL: [Ecommerce Product Page](https://abimbola7.github.io/ecommerce-product-page/)
 
 ## My process
 
@@ -68,5 +68,5 @@ I will continue to learn how to make more better lightbox gallery and how to use
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/abimbola7)
-- Twitter - [@yourusername](https://www.twitter.com/@_jidex)
+- Frontend Mentor - [@abimbola7](https://www.frontendmentor.io/profile/abimbola7)
+- Twitter - [@_jidex](https://www.twitter.com/@_jidex)
